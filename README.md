@@ -112,3 +112,4 @@ practica/
 - [Reporte de Correcciones](file:///c:/Users/moren/Documents/GitHub/practica/reportes/reporte_correcciones.md)
 - [Reporte de Auditoría (10 Secciones)](file:///c:/Users/moren/Documents/GitHub/practica/reportes/reporte_auditoria.md)
 - [Guía de Evidencias Postman / cURL](file:///c:/Users/moren/Documents/GitHub/practica/evidencias/guia_evidencias_postman.md)
+

@@ -156,3 +156,4 @@ Se ejecutó la suite de pruebas automatizadas mediante `mvn test`:
 ```
 
 Todas las defensas han quedado verificadas y operacionales.
+

@@ -163,3 +163,4 @@ La suite de pruebas automatizadas con JUnit 5 y Spring MockMvc corrió exitosame
 - **Anexo A:** Colección Postman de Explotación: `codigo-original/pedidos-api-vulnerable/postman/Coleccion_Explotacion_P1.json`
 - **Anexo B:** Colección Postman de Validación: `codigo-modificado/pedidos-api-seguro/postman/Coleccion_Validacion_P1.json`
 - **Anexo C:** Código fuente de pruebas automatizadas: `codigo-modificado/pedidos-api-seguro/src/test/java/com/itson/ciberseguridad/seguridad/`
+

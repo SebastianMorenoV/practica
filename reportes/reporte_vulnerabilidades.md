@@ -188,3 +188,4 @@
   Peticiones con montos negativos (`-500.00`) o emails sin formato (`"correo-invalido"`) son aceptadas y almacenadas con código HTTP `200/201`.
 - **Impacto:** Inconsistencia de datos, posibles fallos en lógica financiera, ataques de abuso de parámetros.
 - **Remediación recomendada:** Incluir `spring-boot-starter-validation`, anotar los DTOs con restricciones Bean Validation y manejar las excepciones en un `@RestControllerAdvice`.
+

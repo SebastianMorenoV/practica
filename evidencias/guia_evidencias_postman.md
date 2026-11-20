@@ -245,3 +245,4 @@ Este documento compila las peticiones exactas y las respuestas observadas tanto 
   }
   ```
 - **Defensa confirmada:** Bean Validation (`@Valid`) retorna mensajes específicos por campo sin exponer excepciones internas.
+
