@@ -8,7 +8,9 @@
 
 ## 👥 Integrantes del Equipo
 
-- Sebastián Moreno (y compañeros de equipo)
+- Sebastián Moreno
+- Luciano Barcelo
+- Benjamin Soto
 
 ---
 
